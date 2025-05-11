@@ -1,12 +1,4 @@
-Django -is a high-level Python web framework that facilitates rapid development of secure and maintainable websites.    
-primarily used for developing dynamic websites and web applications. It handles the backend logic, database interactions, and URL routing, allowing developers to focus on building features and functionality.
-
-PostgreSQL- is a powerful, open-source object-relational database management system (ORDBMS) that is known for its reliability, data integrity, and extensive feature set
-It allows clients to request exactly the data they need , reducing over- fetching and under-fetching issues common with REST APIs
- 
-GraphQL- is a data query and manipulation language that allows specifying what data is to be retrieved or modified.
-It allows clients to request exactly the data they need , reducing over- fetching and under-fetching issues common with REST APIs
-
-MySQL is an open-source relational database management system (RDBMS) that uses SQL to manage and store data
-Acts as a central repository for all the information a web app needs, such as user accounts ,product catalogs,content,and more.
-It organises data into tables, rows,and columns,allowing for structured and efficient storage and retrieval 
+Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
+Database Administrator: Manages database design, indexing, and optimizations.
+DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
+QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
