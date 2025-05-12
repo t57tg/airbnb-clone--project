@@ -1,0 +1,2 @@
+A CI/CD pipeline guides the process of software development through a path of building, testing, and deploying code
+some of the tools used for this is Jenkins, CircleCI, GitLab CI, GitHub Actions,docker and Azure DevOps.
